@@ -1,0 +1,961 @@
+﻿"Title","ID","Created Date","Updated Date","Owner","course_code","description","school","Subject","bullet_points","Concordia_courses (List)","Online Tutor","In-Person Tutor"
+"General Biology I","CEGEP101-NYA",2024-09-12T04:30:15Z,2024-09-16T02:40:15Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","101-NYA","This course introduces students to the foundational principles of biology, with a focus on the diversity and organization of life, and their ecological interactions.","HEALTH/PURE CEGEP","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">Characteristics of Life</p></li>
+  <li><p class=""font_8"">Cell Structure and Function</p></li>
+  <li><p class=""font_8"">Cellular Respiration</p></li>
+  <li><p class=""font_8"">Photosynthesis</p></li>
+  <li><p class=""font_8"">Cell Division: Mitosis and Meiosis</p></li>
+  <li><p class=""font_8"">Genetics and Inheritance</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"Calculus 1","CEGEP201-NYA",2024-09-12T04:30:14Z,2024-09-16T02:48:42Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-NYA","This course introduces fundamental concepts of differential calculus, essential for students in science and engineering programs.","HEALTH/PURE CEGEP","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions and Graphs</p></li>
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Derivatives</p></li>
+  <li><p class=""font_8"">Rules of Differentiation</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Implicit Differentiation</p></li>
+  <li><p class=""font_8"">Related Rates</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Calculus 2","CEGEP201-NYB",2024-09-12T04:30:14Z,2024-09-16T02:46:29Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-NYB","A continuation of Calculus 1, this course covers integral calculus and its applications.","HEALTH/PURE CEGEP","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Antiderivatives and Indefinite Integrals</p></li>
+  <li><p class=""font_8"">The Definite Integral</p></li>
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Applications of the Integral</p></li>
+  <li><p class=""font_8"">Area Between Curves</p></li>
+  <li><p class=""font_8"">Volumes of Solids of Revolution</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Linear Algebra","CEGEP201-NYC",2024-09-12T04:30:15Z,2024-09-16T02:38:44Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-NYC","This course covers the basic concepts of linear algebra, which are essential for understanding vector spaces and linear transformations.","HEALTH/PURE CEGEP","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrix Operations</p></li>
+  <li><p class=""font_8"">Determinants</p></li>
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Linear Independence and Dependence</p></li>
+  <li><p class=""font_8"">Basis and Dimension</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Ryan Hui","N/A"
+"General Chemistry","CEGEP202-NYA",2024-09-12T04:30:14Z,2024-09-16T02:49:10Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","202-NYA","This course introduces fundamental concepts in chemistry, focusing on chemical reactions and the properties of matter.","HEALTH/PURE CEGEP","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Atomic Structure</p></li>
+  <li><p class=""font_8"">Periodic Table</p></li>
+  <li><p class=""font_8"">Chemical Bonding</p></li>
+  <li><p class=""font_8"">Molecular Geometry</p></li>
+  <li><p class=""font_8"">Stoichiometry</p></li>
+  <li><p class=""font_8"">Chemical Reactions</p></li>
+  <li><p class=""font_8"">Thermochemistry</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"Chemistry of Solutions","CEGEP202-NYB",2024-09-12T04:30:14Z,2024-09-16T02:48:10Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","202-NYB","This course continues from General Chemistry, focusing on the properties and behaviors of solutions.","HEALTH/PURE CEGEP","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Types of Solutions</p></li>
+  <li><p class=""font_8"">Concentration Units</p></li>
+  <li><p class=""font_8"">Colligative Properties</p></li>
+  <li><p class=""font_8"">Chemical Equilibrium</p></li>
+  <li><p class=""font_8"">Le Chatelier's Principle</p></li>
+  <li><p class=""font_8"">Acid-Base Equilibria</p></li>
+  <li><p class=""font_8"">Solubility Equilibria</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","N/A"
+"Mechanics","CEGEP203-NYA",2024-09-12T04:30:14Z,2024-09-16T02:44:35Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","203-NYA","This course covers the basic principles of mechanics, essential for understanding the motion and forces of objects.","HEALTH/PURE CEGEP","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Kinematics</p></li>
+  <li><p class=""font_8"">Newton's Laws of Motion</p></li>
+  <li><p class=""font_8"">Work and Energy</p></li>
+  <li><p class=""font_8"">Conservation of Energy</p></li>
+  <li><p class=""font_8"">Momentum</p></li>
+  <li><p class=""font_8"">Rotational Motion</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Electricity and Magnetism","CEGEP203-NYB",2024-09-12T04:30:14Z,2024-09-16T02:46:48Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","203-NYB","This course explores the fundamental principles of electricity and magnetism, critical for understanding electromagnetic phenomena.","HEALTH/PURE CEGEP","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Electric Fields</p></li>
+  <li><p class=""font_8"">Electric Potential</p></li>
+  <li><p class=""font_8"">Capacitance</p></li>
+  <li><p class=""font_8"">Electric Circuits</p></li>
+  <li><p class=""font_8"">Magnetic Fields</p></li>
+  <li><p class=""font_8"">Electromagnetic Induction</p></li>
+  <li><p class=""font_8"">AC Circuits</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Waves, Optics, and Modern Physics","CEGEP203-NYC",2024-09-12T04:30:14Z,2024-09-16T02:48:38Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","203-NYC","This course covers wave phenomena, optics, and introduces modern physics concepts.","HEALTH/PURE CEGEP","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Wave Properties</p></li>
+  <li><p class=""font_8"">Sound Waves</p></li>
+  <li><p class=""font_8"">Light Waves</p></li>
+  <li><p class=""font_8"">Reflection and Refraction</p></li>
+  <li><p class=""font_8"">Lenses and Mirrors</p></li>
+  <li><p class=""font_8"">Interference and Diffraction</p></li>
+  <li><p class=""font_8"">Polarization</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"General Biology II","DAWSON101-BZE05-",2024-09-12T04:30:15Z,2024-09-16T02:36:38Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","101-BZE-05","This course is crucial for understanding biological systems at the cellular and molecular levels, preparing students for further studies in life sciences​.","DAWSON","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">Cell Chemistry</p></li>
+  <li><p class=""font_8"">Cell Structure and Function</p></li>
+  <li><p class=""font_8"">Major Metabolic Processes</p></li>
+  <li><p class=""font_8"">Introductory Molecular Genetics</p></li>
+  <li><p class=""font_8"">Nervous and Hormonal Regulation Mechanisms</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"Remedial Activities for Secondary V Mathematics (Technical and Scientific Option)","DAWSON201-015-RE",2024-09-12T04:30:15Z,2024-09-16T02:38:28Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-015-RE","This course reinforces important concepts from the Secondary V Mathematics curriculum, preparing students for college-level studies.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Algebraic Expressions and Operations</p></li>
+  <li><p class=""font_8"">Polynomial Functions and Equations</p></li>
+  <li><p class=""font_8"">Factoring Techniques</p></li>
+  <li><p class=""font_8"">Rational Expressions and Equations</p></li>
+  <li><p class=""font_8"">Exponential and Logarithmic Functions</p></li>
+  <li><p class=""font_8"">Trigonometry and Trigonometric Functions</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Remedial Activities for Secondary IV Mathematics (Technical and Scientific Option)","DAWSON201-016-RE",2024-09-12T04:30:15Z,2024-09-16T02:41:49Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-016-RE","This course revisits key concepts from the Secondary IV Mathematics curriculum, ensuring students have a solid foundation for further mathematical studies.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Basic Algebraic Operations</p></li>
+  <li><p class=""font_8"">Linear Equations and Inequalities</p></li>
+  <li><p class=""font_8"">Quadratic Functions and Equations</p></li>
+  <li><p class=""font_8"">Radical Expressions and Equations</p></li>
+  <li><p class=""font_8"">Trigonometric Ratios and Functions</p></li>
+  <li><p class=""font_8"">Coordinate Geometry</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Elias Bakopanos"
+"Calculus I (Commerce)","DAWSON201-103-DW",2024-09-12T04:30:15Z,2024-09-16T02:21:38Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-103-DW","This course provides foundational calculus skills with a focus on applications relevant to social sciences. ","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Derivatives and Differentiation Techniques</p></li>
+  <li><p class=""font_8"">Applications of Derivatives (curve sketching, related rates, optimization)</p></li>
+  <li><p class=""font_8"">Introduction to Anti-Derivatives</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Zachary Flynn"
+"Linear Algebra (Commerce)","DAWSON201-105-DW",2024-09-12T04:30:14Z,2024-09-16T02:44:02Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-105-DW","This course is designed for students in non-science programs and emphasizes practical applications of linear algebra concepts in various fields.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrices and Determinants</p></li>
+  <li><p class=""font_8"">Vectors in 2D and 3D Space</p></li>
+  <li><p class=""font_8"">Applications to Lines and Planes</p></li>
+  <li><p class=""font_8"">Applications of Linear Algebra to Social Sciences</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Calculus II (Social Sciences)","DAWSON201-203-DW",2024-09-12T04:30:14Z,2024-09-16T02:46:23Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-203-DW","This course extends the study of calculus to integral calculus and series, with a focus on applications in social sciences.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Definite and Indefinite Integrals</p></li>
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Applications of Integration</p></li>
+  <li><p class=""font_8"">Differential Equations</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">Power Series</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Zachary Flynn"
+"Calculus I: Differential Calculus for Social Sciences","DAWSON201-MA1-DW",2024-09-12T04:30:15Z,2024-09-16T02:37:32Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-MA1-DW","This course focuses on differential calculus with applications tailored to the social sciences.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions and Models</p></li>
+  <li><p class=""font_8"">Limits and Derivatives</p></li>
+  <li><p class=""font_8"">Rules of Differentiation</p></li>
+  <li><p class=""font_8"">Implicit Differentiation</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Optimization Problems</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Calculus II: Integral Calculus for Social Sciences","DAWSON201-MA2-DW",2024-09-12T04:30:15Z,2024-09-16T02:40:49Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-MA2-DW","A continuation from Calculus I, this course covers integral calculus and its applications in social sciences.","DAWSON","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Indefinite Integrals</p></li>
+  <li><p class=""font_8"">Definite Integrals</p></li>
+  <li><p class=""font_8"">Fundamental Theorem of Calculus</p></li>
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Applications of Integration</p></li>
+  <li><p class=""font_8"">Differential Equations</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Remedial Activities for Secondary IV Chemistry","DAWSON202-001-50",2024-09-12T04:30:15Z,2024-09-16T02:36:32Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","202-001-50","This course serves as a prerequisite for General Chemistry in college-level science programs​.","DAWSON","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Nature and behavior of matter</p></li>
+  <li><p class=""font_8"">Chemical reactions and stoichiometry</p></li>
+  <li><p class=""font_8"">Ideal gas law</p></li>
+  <li><p class=""font_8"">Energy changes in chemical reactions</p></li>
+  <li><p class=""font_8"">Reaction kinetics and equilibrium</p></li>
+  <li><p class=""font_8"">Experimental verification of chemical principles</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"Mechanics (Social Science)","DAWSON203-SN1-RE",2024-09-12T04:30:15Z,2024-09-16T02:38:13Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","203-SN1-RE","This course is foundational for students in the Science program, helping them develop problem-solving skills and understanding of mechanical principles.","DAWSON","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Newton’s Laws of Motion</p></li>
+  <li><p class=""font_8"">Kinematics and Dynamics of Particles</p></li>
+  <li><p class=""font_8"">Work, Energy, and Power</p></li>
+  <li><p class=""font_8"">Conservation of Energy and Momentum</p></li>
+  <li><p class=""font_8"">Rotational Motion and Dynamics</p></li>
+  <li><p class=""font_8"">Gravitation</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Programming I","DAWSON420-110-DW",2024-09-12T04:30:14Z,2024-09-16T02:46:15Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-110-DW","This course introduces the basics of programming, focusing on fundamental concepts and problem-solving techniques.","DAWSON","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Basic Syntax and Structure</p></li>
+  <li><p class=""font_8"">Data Types and Variables</p></li>
+  <li><p class=""font_8"">Control Structures</p></li>
+  <li><p class=""font_8"">Functions and Procedures</p></li>
+  <li><p class=""font_8"">Arrays and Lists</p></li>
+  <li><p class=""font_8"">Input and Output</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Web Development I","DAWSON420-120-DW",2024-09-12T04:30:15Z,2024-09-16T02:40:54Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-120-DW","This course covers the essential skills and technologies required for front-end web development.","DAWSON","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">HTML and CSS</p></li>
+  <li><p class=""font_8"">Responsive Design</p></li>
+  <li><p class=""font_8"">JavaScript Basics</p></li>
+  <li><p class=""font_8"">DOM Manipulation</p></li>
+  <li><p class=""font_8"">Event Handling</p></li>
+  <li><p class=""font_8"">Forms and Validation</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Programming II","DAWSON420-210-DW",2024-09-12T04:30:15Z,2024-09-16T02:41:36Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-210-DW","This course builds on the fundamentals learned in Programming I, introducing more advanced programming concepts and techniques.","DAWSON","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced Data Structures</p></li>
+  <li><p class=""font_8"">Recursion</p></li>
+  <li><p class=""font_8"">Advanced Object-Oriented Programming</p></li>
+  <li><p class=""font_8"">Inheritance and Polymorphism</p></li>
+  <li><p class=""font_8"">Exception Handling</p></li>
+  <li><p class=""font_8"">File I/O</p></li>
+  <li><p class=""font_8"">Introduction to Algorithms</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Database I","DAWSON420-231-DW",2024-09-12T04:30:15Z,2024-09-16T02:36:55Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-231-DW","This course introduces the fundamentals of database design, implementation, and management.","DAWSON","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Database Concepts and Terminology</p></li>
+  <li><p class=""font_8"">Data Modeling</p></li>
+  <li><p class=""font_8"">SQL (Structured Query Language)</p></li>
+  <li><p class=""font_8"">Relational Database Design</p></li>
+  <li><p class=""font_8"">Normalization</p></li>
+  <li><p class=""font_8"">Database Management Systems</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Highschool","HIGHSCHOOLHIGHMATH",2024-09-12T04:30:14Z,2024-09-16T02:47:27Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","High Math","This advanced course provides a deeper exploration of mathematical concepts and problem-solving techniques, preparing students for more rigorous mathematical studies. ","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced Algebraic Techniques</p></li>
+  <li><p class=""font_8"">Quadratic Functions and Equations</p></li>
+  <li><p class=""font_8"">Exponential and Logarithmic Functions</p></li>
+  <li><p class=""font_8"">Advanced Geometry and Trigonometry</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">Complex Numbers</p></li>
+  <li><p class=""font_8"">Mathematical Reasoning and Proofs</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Highschool","HIGHSCHOOLMATH",2024-09-12T04:30:14Z,2024-09-16T02:48:49Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Math","This course covers foundational mathematical concepts necessary for higher-level mathematics and everyday applications. ","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Algebraic Expressions and Equations</p></li>
+  <li><p class=""font_8"">Linear Functions and Graphs</p></li>
+  <li><p class=""font_8"">Systems of Equations</p></li>
+  <li><p class=""font_8"">Polynomials</p></li>
+  <li><p class=""font_8"">Rational Expressions and Equations</p></li>
+  <li><p class=""font_8"">Geometry and Trigonometry Basics</p></li>
+  <li><p class=""font_8"">Probability and Statistics</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Highschool","HIGHSCHOOLSCIENCE",2024-09-12T04:30:14Z,2024-09-16T02:46:54Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Science","This course introduces students to basic scientific principles across various fields, providing a foundation for future specialized science courses.","HIGHSCHOOL","SCIENCE","<ol class=""font_8"">
+  <li><p class=""font_8"">Scientific Method and Inquiry</p></li>
+  <li><p class=""font_8"">Matter and Its Properties</p></li>
+  <li><p class=""font_8"">Energy and Motion</p></li>
+  <li><p class=""font_8"">Basic Chemistry Concepts</p></li>
+  <li><p class=""font_8"">Ecology and Environmental Science</p></li>
+  <li><p class=""font_8"">Human Biology and Health</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 4","SEC4ENVIRONMENTALSCIENCE",2024-09-12T04:30:15Z,2024-09-16T02:36:46Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Environmental Science","This course focuses on the interaction between natural systems and human activities, emphasizing sustainability and environmental stewardship.","HIGHSCHOOL","SCIENCE","<ol class=""font_8"">
+  <li><p class=""font_8"">Ecosystems and Biodiversity</p></li>
+  <li><p class=""font_8"">Energy Flow and Nutrient Cycles</p></li>
+  <li><p class=""font_8"">Environmental Chemistry and Pollution</p></li>
+  <li><p class=""font_8"">Conservation and Resource Management</p></li>
+  <li><p class=""font_8"">Climate Change and Global Warming</p></li>
+  <li><p class=""font_8"">Human Impact on the Environment</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 4","SEC4HIGHMATH",2024-09-12T04:30:14Z,2024-09-16T02:45:41Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","High Math","An advanced course aimed at deepening students' understanding of mathematical theories and applications, essential for future STEM studies.","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced Functions and Graphs</p></li>
+  <li><p class=""font_8"">Polynomial and Rational Functions</p></li>
+  <li><p class=""font_8"">Advanced Trigonometry</p></li>
+  <li><p class=""font_8"">Logarithmic and Exponential Functions</p></li>
+  <li><p class=""font_8"">Complex Numbers and Polar Coordinates</p></li>
+  <li><p class=""font_8"">Vectors and Vector Spaces</p></li>
+  <li><p class=""font_8"">Calculus Introduction</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 4","SEC4MATH",2024-09-12T04:30:15Z,2024-09-16T02:34:58Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Math","This course builds on previous mathematical knowledge, focusing on more complex concepts and applications.","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions and Relations</p></li>
+  <li><p class=""font_8"">Quadratic Equations and Functions</p></li>
+  <li><p class=""font_8"">Geometry and Trigonometry</p></li>
+  <li><p class=""font_8"">Rational Expressions and Equations</p></li>
+  <li><p class=""font_8"">Exponential Functions</p></li>
+  <li><p class=""font_8"">Data Analysis and Probability</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Secondary 4","SEC4SCIENCE",2024-09-12T04:30:14Z,2024-09-16T02:47:15Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Science","This course delves deeper into various scientific disciplines, providing students with a broad understanding of scientific principles.","HIGHSCHOOL","SCIENCE","<ol class=""font_8"">
+  <li><p class=""font_8"">Chemistry: Reactions and Equations</p></li>
+  <li><p class=""font_8"">Physics: Forces and Energy</p></li>
+  <li><p class=""font_8"">Biology: Cellular Processes and Genetics</p></li>
+  <li><p class=""font_8"">Earth Sciences: Geology and Meteorology</p></li>
+  <li><p class=""font_8"">Environmental Science and Sustainability</p></li>
+  <li><p class=""font_8"">Scientific Technologies and Innovations</p></li>
+  <li><p class=""font_8"">Lab Techniques and Safety</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 5","SEC5CHEM",2024-09-12T04:30:15Z,2024-09-16T02:38:33Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Chemistry","This course provides a thorough understanding of chemical principles and reactions, essential for students interested in chemistry or related fields.","HIGHSCHOOL","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Atomic Structure and Periodicity</p></li>
+  <li><p class=""font_8"">Chemical Bonding and Molecular Structure</p></li>
+  <li><p class=""font_8"">Stoichiometry and Chemical Reactions</p></li>
+  <li><p class=""font_8"">Thermodynamics and Kinetics</p></li>
+  <li><p class=""font_8"">Acids, Bases, and pH</p></li>
+  <li><p class=""font_8"">Electrochemistry</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 5","SEC5HIGHMATH",2024-09-12T04:30:14Z,2024-09-16T02:43:48Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","High Math","An in-depth course designed for students pursuing careers in STEM fields, offering a comprehensive exploration of higher-level mathematics.","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced Calculus: Differentiation and Integration</p></li>
+  <li><p class=""font_8"">Differential Equations</p></li>
+  <li><p class=""font_8"">Matrix Algebra and Determinants</p></li>
+  <li><p class=""font_8"">Vector Calculus</p></li>
+  <li><p class=""font_8"">Complex Analysis</p></li>
+  <li><p class=""font_8"">Mathematical Proof Techniques</p></li>
+  <li><p class=""font_8"">Advanced Probability and Statistics</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 5","SEC5MATH",2024-09-12T04:30:15Z,2024-09-16T02:42:58Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Math","This course prepares students for post-secondary mathematics by covering advanced topics in a variety of mathematical fields.","HIGHSCHOOL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced Algebra and Functions</p></li>
+  <li><p class=""font_8"">Analytic Geometry</p></li>
+  <li><p class=""font_8"">Trigonometry and Circular Functions</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">Calculus Basics: Differentiation and Integration</p></li>
+  <li><p class=""font_8"">Probability and Statistics</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Secondary 5","SEC5PHYS",2024-09-12T04:30:14Z,2024-09-16T02:45:37Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","Physics","This course explores fundamental concepts in physics, preparing students for further study in physical sciences and engineering.","HIGHSCHOOL","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Mechanics: Forces and Motion</p></li>
+  <li><p class=""font_8"">Energy and Work</p></li>
+  <li><p class=""font_8"">Waves and Sound</p></li>
+  <li><p class=""font_8"">Electricity and Magnetism</p></li>
+  <li><p class=""font_8"">Optics and Light</p></li>
+  <li><p class=""font_8"">Modern Physics: Quantum Mechanics and Relativity</p></li>
+  <li><p class=""font_8"">Thermodynamics and Heat Transfer</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"General Biology II","VANIER101-HTK-05",2024-09-12T04:30:14Z,2024-09-16T02:45:32Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","101-HTK-05","This course is designed for science students to further explore biology beyond the basics.","VANIER","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">Chemistry of Life</p></li>
+  <li><p class=""font_8"">Cell Structure and Function</p></li>
+  <li><p class=""font_8"">Membrane Transport</p></li>
+  <li><p class=""font_8"">Energy Transformation in Cells</p></li>
+  <li><p class=""font_8"">Genetics and Inheritance</p></li>
+  <li><p class=""font_8"">Evolutionary Biology</p></li>
+  <li><p class=""font_8"">Physiology of Plants and nimals</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"Secondary IV Mathematics","VANIER201-013-50",2024-09-12T04:30:14Z,2024-09-16T02:49:02Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-013-50","This course covers foundational mathematics topics necessary for success in higher-level mathematics courses.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Algebraic Expressions</p></li>
+  <li><p class=""font_8"">Polynomial Functions</p></li>
+  <li><p class=""font_8"">Factoring Techniques</p></li>
+  <li><p class=""font_8"">Rational Expressions</p></li>
+  <li><p class=""font_8"">Exponents and Radicals</p></li>
+  <li><p class=""font_8"">Linear Equations and Inequalities</p></li>
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Secondary V Mathematics","VANIER201-015-50",2024-09-12T04:30:15Z,2024-09-16T02:43:09Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-015-50","This course prepares students for college-level mathematics by covering advanced high school topics.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Trigonometric Functions</p></li>
+  <li><p class=""font_8"">Exponents and Logarithms</p></li>
+  <li><p class=""font_8"">Functions and Their Properties</p></li>
+  <li><p class=""font_8"">Conic Sections</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">Polynomial Functions</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Calculus I (Commerce)","VANIER201-103-DW",2024-09-12T04:30:15Z,2024-09-16T02:42:47Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-103-DW","This course introduces the foundational concepts of calculus, focusing on applications relevant to commerce and social sciences.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions and Graphs</p></li>
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Derivatives and Differentiation</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Optimization</p></li>
+  <li><p class=""font_8"">Related Rates</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Zachary Flynn"
+"Calculus I (Social Science/Commerce)","VANIER201-103-VA",2024-09-12T04:30:15Z,2024-09-16T02:41:43Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-103-VA","An introduction to differential calculus with applications relevant to social sciences and commerce.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions and Graphs</p></li>
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Derivatives and Differentiation</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Optimization Problems</p></li>
+  <li><p class=""font_8"">Related Rates</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Elias Bakopanos"
+"Linear Algebra (Commerce)","VANIER201-105-DW",2024-09-12T04:30:15Z,2024-09-16T02:38:39Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-105-DW","This course covers the fundamental concepts of linear algebra, emphasizing applications in commerce and social sciences.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrix Algebra</p></li>
+  <li><p class=""font_8"">Determinants</p></li>
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Linear Independence</p></li>
+  <li><p class=""font_8"">Eigenvalues and Eigenvectors</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","Elias Bakopanos"
+"Linear Algebra (Social Science/Commerce)","VANIER201-105-VA",2024-09-12T04:30:15Z,2024-09-16T02:39:11Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-105-VA","This course introduces linear algebra concepts with an emphasis on applications in social sciences and commerce.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrix Operations</p></li>
+  <li><p class=""font_8"">Determinants</p></li>
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Linear Independence</p></li>
+  <li><p class=""font_8"">Basis and Dimension</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Calculus II (Social Science/Commerce)","VANIER201-203-VA",2024-09-12T04:30:14Z,2024-09-16T02:44:06Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-203-VA","This course focuses on integral calculus and its applications, tailored for social science and commerce students.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Antiderivatives</p></li>
+  <li><p class=""font_8"">Definite Integrals</p></li>
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Applications of Integration</p></li>
+  <li><p class=""font_8"">Differential Equations</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Calculus III","VANIER201-HTJ-05",2024-09-12T04:30:15Z,2024-09-16T02:42:39Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-HTJ-05","This advanced calculus course extends concepts from Calculus I and II, focusing on multivariable functions and integration.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Vector Calculus</p></li>
+  <li><p class=""font_8"">Partial Derivatives</p></li>
+  <li><p class=""font_8"">Multiple Integrals</p></li>
+  <li><p class=""font_8"">Line Integrals</p></li>
+  <li><p class=""font_8"">Surface Integrals</p></li>
+  <li><p class=""font_8"">Divergence and Curl</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Linear Algebra II","VANIER201-HTK-05",2024-09-12T04:30:14Z,2024-09-16T02:47:31Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-HTK-05","This course covers advanced topics in linear algebra, including applications in various fields.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Linear Transformations</p></li>
+  <li><p class=""font_8"">Eigenvalues and Eigenvectors</p></li>
+  <li><p class=""font_8"">Diagonalization</p></li>
+  <li><p class=""font_8"">Inner Product Spaces</p></li>
+  <li><p class=""font_8"">Orthogonal Projections</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","N/A"
+"Differential Equations","VANIER201-HTL-05",2024-09-12T04:30:15Z,2024-09-16T02:42:22Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","201-HTL-05","This course focuses on the methods and applications of ordinary differential equations.","VANIER","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">First-Order Differential Equations</p></li>
+  <li><p class=""font_8"">Second-Order Linear Equations</p></li>
+  <li><p class=""font_8"">Systems of Differential Equations</p></li>
+  <li><p class=""font_8"">Series Solutions</p></li>
+  <li><p class=""font_8"">Laplace Transforms</p></li>
+  <li><p class=""font_8"">Stability Analysis</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Angel Udeogu"
+"General Chemistry (Social Science)","VANIER202-111-VA",2024-09-12T04:30:14Z,2024-09-16T02:47:47Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","202-111-VA","This course is designed to introduce students to essential principles in chemistry, providing a strong foundation for further studies in science.","VANIER","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Stoichiometry</p></li>
+  <li><p class=""font_8"">Chemical Nomenclature</p></li>
+  <li><p class=""font_8"">Atomic Structure and the Periodic Table</p></li>
+  <li><p class=""font_8"">Chemical Bonding and Molecular Geometry</p></li>
+  <li><p class=""font_8"">Thermochemistry</p></li>
+  <li><p class=""font_8"">Gas Laws and Kinetic Theory of Gases</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","N/A"
+" Mechanics (Social Science)","VANIER203-SN1-RE",2024-09-12T04:30:15Z,2024-09-16T02:37:25Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","203-SN1-RE","This course is designed to help students develop a strong understanding of mechanical principles through problem-solving and experimentation.","VANIER","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Kinematics and Dynamics of Particles</p></li>
+  <li><p class=""font_8"">Newton's Laws of Motion</p></li>
+  <li><p class=""font_8"">Work, Energy, and Power</p></li>
+  <li><p class=""font_8"">Conservation of Momentum and Energy</p></li>
+  <li><p class=""font_8"">Rotational Motion and Dynamics</p></li>
+  <li><p class=""font_8"">Gravitation</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Programming in Java","VANIER420-980-VA",2024-09-12T04:30:14Z,2024-09-16T02:47:21Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-980-VA","This course introduces the fundamentals of programming using Java, covering basic to intermediate programming concepts.","VANIER","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Basic Java Syntax and Structure</p></li>
+  <li><p class=""font_8"">Data Types and Variables</p></li>
+  <li><p class=""font_8"">Control Structures (if-else, switch)</p></li>
+  <li><p class=""font_8"">Loops (for, while, do-while)</p></li>
+  <li><p class=""font_8"">Methods and Functions</p></li>
+  <li><p class=""font_8"">Arrays and Collections</p></li>
+  <li><p class=""font_8"">Object-Oriented Programming (OOP) Principles</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Advanced Programming in Java","VANIER420-984-VA",2024-09-12T04:30:14Z,2024-09-16T02:44:40Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-984-VA","This advanced course builds on the concepts learned in the introductory Java course, focusing on more complex programming techniques and software development practices.","VANIER","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Advanced OOP Concepts</p></li>
+  <li><p class=""font_8"">Interfaces and Abstract Classes</p></li>
+  <li><p class=""font_8"">Advanced Data Structures (Linked Lists, Stacks, Queues)</p></li>
+  <li><p class=""font_8"">Recursion</p></li>
+  <li><p class=""font_8"">Generics and Collections Framework</p></li>
+  <li><p class=""font_8"">GUI Development with JavaFX</p></li>
+  <li><p class=""font_8"">Multithreading and Concurrency</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Web Programming","VANIER420-999-VA",2024-09-12T04:30:15Z,2024-09-16T02:37:46Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","420-999-VA","This course covers the essential technologies and frameworks used in web development, focusing on both client-side and server-side programming.","VANIER","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">HTML, CSS, and JavaScript Basics</p></li>
+  <li><p class=""font_8"">Responsive Web Design</p></li>
+  <li><p class=""font_8"">Client-Side Scripting with JavaScript</p></li>
+  <li><p class=""font_8"">DOM Manipulation</p></li>
+  <li><p class=""font_8"">AJAX and JSON</p></li>
+  <li><p class=""font_8"">Server-Side Programming with Java (Servlets and JSP)</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Introductory Biology I","biol201",2024-09-12T04:30:15Z,2024-09-16T02:38:08Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","BIOL 201","This course provides a foundational overview of biology and the study of life, essential for students pursuing degrees in life sciences.","CONCORDIA","BIOLOGY","<ul class=""font_8"">
+  <li><p class=""font_8"">Prokaryotic Cells</p></li>
+  <li><p class=""font_8"">Cellular Respiration</p></li>
+  <li><p class=""font_8"">Cell Division</p></li>
+  <li><p class=""font_8"">Genetics</p></li>
+  <li><p class=""font_8"">DNA</p></li>
+  <li><p class=""font_8"">Evolution</p></li>
+  <li><p class=""font_8"">Life and Bacteria</p></li>
+  <li><p class=""font_8"">Protists and Plants</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Maria Moshopoulos"
+"General Biology","biol202",2024-09-12T04:30:15Z,2024-09-16T02:40:21Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","BIOL 202","This course deepens understanding of biology and evolutionary principles, building on the foundations laid in Introductory Biology I.","CONCORDIA","BIOLOGY","<ul class=""font_8"">
+  <li><p class=""font_8"">Overview of Biology</p></li>
+  <li><p class=""font_8"">Scientific Thinking</p></li>
+  <li><p class=""font_8"">Chemistry</p></li>
+  <li><p class=""font_8"">Cells</p></li>
+  <li><p class=""font_8"">Energy</p></li>
+  <li><p class=""font_8"">DNA &amp; Gene Expression</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Maria Moshopoulos"
+"General Chemistry I","chem205",2024-09-12T04:30:14Z,2024-09-16T02:46:42Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","CHEM 205","This course introduces fundamental concepts in chemistry and the scientific method, serving as a foundational course for further studies in chemistry.","CONCORDIA","CHEMISTRY","<ul class=""font_8"">
+  <li><p class=""font_8"">Basic Concepts of Chemistry</p></li>
+  <li><p class=""font_8"">Atoms, Molecules &amp; Ions</p></li>
+  <li><p class=""font_8"">Stoichiometry: Quantitative Information about Chemical Reactions</p></li>
+  <li><p class=""font_8"">Chemical Reactions</p></li>
+  <li><p class=""font_8"">Bonding &amp; Molecular Structure</p></li>
+  <li><p class=""font_8"">The Structure of Atoms</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"General Chemistry II","chem206",2024-09-12T04:30:14Z,2024-09-16T02:48:05Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","CHEM 206","This course offers an advanced exploration of chemistry, building on the foundations of General Chemistry I, with a focus on more complex concepts and applications.","CONCORDIA","CHEMISTRY","<ul class=""font_8"">
+  <li><p class=""font_8"">Thermodynamics</p></li>
+  <li><p class=""font_8"">Liquids &amp; Solutions</p></li>
+  <li><p class=""font_8"">Kinetics</p></li>
+  <li><p class=""font_8"">Equilibrium</p></li>
+  <li><p class=""font_8"">Acids &amp; Bases</p></li>
+  <li><p class=""font_8"">Solubility Equilibria</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"Programming Methodology I","coen243",2024-09-12T04:30:15Z,2024-09-16T02:42:54Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COEN 243","This course covers the basics of programming methodology, emphasizing structured programming and problem-solving.","CONCORDIA","ENGINEERING","<ul class=""font_8"">
+  <li><p class=""font_8"">Introduction to Programming</p></li>
+  <li><p class=""font_8"">Data Types and Variables</p></li>
+  <li><p class=""font_8"">Control Structures</p></li>
+  <li><p class=""font_8"">Functions and Recursion</p></li>
+  <li><p class=""font_8"">Arrays and Strings</p></li>
+  <li><p class=""font_8"">Pointers and Dynamic Memory</p></li>
+  <li><p class=""font_8"">Introduction to Object-Oriented Programming</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Ossama Elbannaoui"
+"Programming Methodology II","coen244",2024-09-12T04:30:14Z,2024-09-16T02:43:42Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COEN 244","This course continues from Programming Methodology I, delving deeper into programming with an emphasis on object-oriented design.","CONCORDIA","ENGINEERING","<ul class=""font_8"">
+  <li><p class=""font_8"">Advanced Object-Oriented Programming</p></li>
+  <li><p class=""font_8"">Inheritance and Polymorphism</p></li>
+  <li><p class=""font_8"">Exception Handling</p></li>
+  <li><p class=""font_8"">File and Stream I/O</p></li>
+  <li><p class=""font_8"">Templates and Standard Template Library (STL)</p></li>
+  <li><p class=""font_8"">Graphical User Interfaces (GUIs)</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Ossama Elbannaoui"
+"Computer Organization and Software","coen311",2024-09-12T04:30:14Z,2024-09-16T02:47:41Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COEN 311","This course explores the architecture and organization of computer systems, along with relevant software considerations.","CONCORDIA","ENGINEERING","<ul class=""font_8"">
+  <li><p class=""font_8"">Computer System Overview</p></li>
+  <li><p class=""font_8"">Data Representation</p></li>
+  <li><p class=""font_8"">Assembly Language Programming</p></li>
+  <li><p class=""font_8"">CPU Architecture</p></li>
+  <li><p class=""font_8"">Memory Hierarchy</p></li>
+  <li><p class=""font_8"">I/O Systems</p></li>
+  <li><p class=""font_8"">Basic Operating System Concepts</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Ossama Elbannaoui"
+"Object-Oriented Programming I","comp248",2024-09-12T04:30:15Z,2024-09-16T02:39:26Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COMP 248","This course introduces the fundamentals of object-oriented programming, providing a solid foundation for further studies in software development.","CONCORDIA","PROGRAMMING","<ul class=""font_8"">
+  <li><p class=""font_8"">Basics of Programming</p></li>
+  <li><p class=""font_8"">Classes and Objects</p></li>
+  <li><p class=""font_8"">Methods</p></li>
+  <li><p class=""font_8"">Arrays</p></li>
+  <li><p class=""font_8"">Inheritance</p></li>
+  <li><p class=""font_8"">Exception Handling</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Object-Oriented Programming II","comp249",2024-09-12T04:30:14Z,2024-09-16T02:45:46Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COMP 249","This course builds on Object-Oriented Programming I, advancing students' understanding of object-oriented concepts and techniques.","CONCORDIA","PROGRAMMING","<ul class=""font_8"">
+  <li><p class=""font_8"">Advanced Object-Oriented Concepts</p></li>
+  <li><p class=""font_8"">Interfaces and Abstract Classes</p></li>
+  <li><p class=""font_8"">Exception Handling in Depth</p></li>
+  <li><p class=""font_8"">File I/O</p></li>
+  <li><p class=""font_8"">Graphical User Interfaces (GUIs)</p></li>
+  <li><p class=""font_8"">Event-Driven Programming</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Dina Shoham"
+"Applied Ordinary Differential Equations","engr213",2024-09-12T04:30:15Z,2024-09-16T02:40:33Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","ENGR 213","This course focuses on the methods and applications of ordinary differential equations in engineering.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">First-order Differential Equations</p></li>
+  <li><p class=""font_8"">Higher-order Linear Differential Equations</p></li>
+  <li><p class=""font_8"">Laplace Transforms</p></li>
+  <li><p class=""font_8"">Systems of Differential Equations</p></li>
+  <li><p class=""font_8"">Numerical Methods</p></li>
+  <li><p class=""font_8"">Applications in Engineering Problems</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","N/A"
+"Applied Advanced Calculus","engr233",2024-09-12T04:30:15Z,2024-09-16T02:37:54Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","ENGR 233","This course is designed to provide students with a deep understanding of advanced calculus techniques, with practical applications in engineering fields.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Partial derivatives</p></li>
+  <li><p class=""font_8"">Multiple integrals</p></li>
+  <li><p class=""font_8"">Line and surface integrals</p></li>
+  <li><p class=""font_8"">Vector fields and vector calculus (e.g., divergence and curl)</p></li>
+  <li><p class=""font_8"">Green's Theorem, Stokes' Theorem, and the Divergence Theorem</p></li>
+  <li><p class=""font_8"">Applications of these concepts to engineering problems</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Statics","engr242",2024-09-12T04:30:15Z,2024-09-16T02:39:33Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","ENGR 242","This course covers the fundamentals of statics, a branch of mechanics that deals with the analysis of forces and moments.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Equilibrium of Rigid Bodies</p></li>
+  <li><p class=""font_8"">Free-Body Diagrams</p></li>
+  <li><p class=""font_8"">Force Systems (Concurrent, Parallel, and Distributed)</p></li>
+  <li><p class=""font_8"">Centroids and Centers of Mass</p></li>
+  <li><p class=""font_8"">Analysis of Structures (Trusses, Frames, and Machines)</p></li>
+  <li><p class=""font_8"">Friction</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Angel Udeogu"
+"Engineering Mechanics","engr243",2024-09-12T04:30:15Z,2024-09-16T02:38:21Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","ENGR 243","This course covers the fundamental principles of engineering mechanics, essential for analyzing forces, moments, and motion in engineering systems.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Statics</p></li>
+  <li><p class=""font_8"">Dynamics</p></li>
+  <li><p class=""font_8"">Forces and Moments</p></li>
+  <li><p class=""font_8"">Equilibrium</p></li>
+  <li><p class=""font_8"">Structural Analysis</p></li>
+  <li><p class=""font_8"">Friction</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","Angel Udeogu"
+"Probability & Statics","engr371",2024-09-12T04:30:14Z,2024-09-16T02:48:56Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","ENGR 371","This course equips engineering students with statistical tools essential for analyzing real-world engineering problems.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Introduction to Probability</p></li>
+  <li><p class=""font_8"">Discrete Random Variables</p></li>
+  <li><p class=""font_8"">Continuous Random Variables</p></li>
+  <li><p class=""font_8"">Probability Distributions (Normal, Binomial, Poisson, etc.)</p></li>
+  <li><p class=""font_8"">Descriptive Statistics</p></li>
+  <li><p class=""font_8"">Estimation and Confidence Intervals</p></li>
+  <li><p class=""font_8"">Hypothesis Testing</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Elias Bakopanos"
+"Multivariable Calculus I","mast218",2024-09-12T04:30:15Z,2024-09-16T02:40:27Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MAST 218","This course introduces multivariable calculus concepts, essential for students in engineering and physical sciences.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Parametric Equations</p></li>
+  <li><p class=""font_8"">Polar Coordinates</p></li>
+  <li><p class=""font_8"">Vector Functions</p></li>
+  <li><p class=""font_8"">Partial Derivatives</p></li>
+  <li><p class=""font_8"">Multiple Integrals</p></li>
+  <li><p class=""font_8"">Vector Calculus</p></li>
+  <li><p class=""font_8"">Gradient, Divergence, and Curl</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","N/A","Angel Udeogu"
+"Multivariable Calculus II","mast219",2024-09-12T04:30:15Z,2024-09-16T02:42:32Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MAST 219","This course expands on multivariable calculus and its applications, covering advanced topics in the field.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Double Integrals</p></li>
+  <li><p class=""font_8"">Surface Area Calculations</p></li>
+  <li><p class=""font_8"">Triple Integrals</p></li>
+  <li><p class=""font_8"">Cylindrical and Spherical Coordinates</p></li>
+  <li><p class=""font_8"">Change of Variables in Multiple Integrals</p></li>
+  <li><p class=""font_8"">Vector Fields and Line Integrals</p></li>
+  <li><p class=""font_8"">Theorems for Vector Analysis</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Linear Algebra and Geometry","math133",2024-09-12T04:30:14Z,2024-09-16T02:45:52Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 133","MATH 133 covers fundamental concepts in linear algebra and their geometric applications.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Gaussian Elimination</p></li>
+  <li><p class=""font_8"">Matrices and Matrix Operations</p></li>
+  <li><p class=""font_8"">Determinants and Properties</p></li>
+  <li><p class=""font_8"">Vector Spaces and Subspaces</p></li>
+  <li><p class=""font_8"">Basis and Dimension</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","N/A"
+"Fundamental Concepts of Algebra","math200",2024-09-12T04:30:14Z,2024-09-16T02:44:13Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 200","This course introduces essential algebraic concepts, serving as a prerequisite for higher-level mathematics courses.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Arithmetic Operations with Algebraic Expressions</p></li>
+  <li><p class=""font_8"">Simplifying Algebraic Expressions</p></li>
+  <li><p class=""font_8"">Factoring Algebraic Expressions</p></li>
+  <li><p class=""font_8"">Solving Linear and Quadratic Equations</p></li>
+  <li><p class=""font_8"">Solving Linear Inequalities</p></li>
+  <li><p class=""font_8"">Graphing Linear Equations in Two Variables</p></li>
+  <li><p class=""font_8"">Solving Systems of Linear Equations in Two Variables</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","N/A"
+"Elementary Functions","math201",2024-09-12T04:30:14Z,2024-09-16T02:44:31Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 201","This course builds a foundation in pre-calculus functions, preparing students for calculus and other advanced mathematics.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Analytic Geometry</p></li>
+  <li><p class=""font_8"">Introduction to Functions</p></li>
+  <li><p class=""font_8"">Combining Functions</p></li>
+  <li><p class=""font_8"">Quadratic and Rational Functions</p></li>
+  <li><p class=""font_8"">Exponential Functions and Logarithms (Part I &amp; II)</p></li>
+  <li><p class=""font_8"">Measuring Angles</p></li>
+  <li><p class=""font_8"">Introduction to Trigonometry</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"College Algebra","math202",2024-09-12T04:30:14Z,2024-09-16T02:48:35Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 202","This course provides advanced algebraic concepts, focusing on polynomials, rational expressions, and complex numbers.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Quadratic Equations&nbsp;</p></li>
+  <li><p class=""font_8"">Trig Form, de Moivre's Theorem</p></li>
+  <li><p class=""font_8"">Complex Zeros of Polynomials</p></li>
+  <li><p class=""font_8"">Mathematical Induction</p></li>
+  <li><p class=""font_8"">Arithmetic Sequences and Series</p></li>
+  <li><p class=""font_8"">Summation Convention</p></li>
+  <li><p class=""font_8"">Geometric Sequences and Series</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","N/A"
+"Differential & Integral Calculus I","math203",2024-09-12T04:30:15Z,2024-09-16T02:41:21Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 203","This course lays the groundwork in differential and integral calculus, essential for students in science, engineering, and economics programs.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Representations of Functions</p></li>
+  <li><p class=""font_8"">Combining Functions; Shifting &amp; Scaling Graphs</p></li>
+  <li><p class=""font_8"">Trigonometric Functions</p></li>
+  <li><p class=""font_8"">Exponential Functions</p></li>
+  <li><p class=""font_8"">Inverse Functions and Logarithms</p></li>
+  <li><p class=""font_8"">Rates of Change and Tangent Lines</p></li>
+  <li><p class=""font_8"">Limit of a Function and Limit Laws</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Vectors & Matrices","math204",2024-09-12T04:30:15Z,2024-09-16T02:42:00Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 204","This course provides foundational knowledge in linear algebra, covering key topics such as systems of equations, matrix operations, and vector spaces.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Gaussian Elimination</p></li>
+  <li><p class=""font_8"">Matrices and Matrix Operations</p></li>
+  <li><p class=""font_8"">Inverses; Algebraic Properties of Matrices</p></li>
+  <li><p class=""font_8"">Determinants</p></li>
+  <li><p class=""font_8"">Vectors in 2-space and 3-space</p></li>
+  <li><p class=""font_8"">Orthogonality</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Differential & Integral Calculus II","math205",2024-09-12T04:30:15Z,2024-09-16T02:40:08Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 205","This course explores advanced topics in single-variable calculus, building on the concepts introduced in Calculus I.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Area and Finite Sums</p></li>
+  <li><p class=""font_8"">Sigma Notation</p></li>
+  <li><p class=""font_8"">The Definite Integral</p></li>
+  <li><p class=""font_8"">Antiderivatives</p></li>
+  <li><p class=""font_8"">Fundamental Theorem of Calculus</p></li>
+  <li><p class=""font_8"">Integration Techniques</p></li>
+  <li><p class=""font_8"">Volumes and Surface Areas</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Algebra & Functions","math206",2024-09-12T04:30:14Z,2024-09-16T02:47:58Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 206","This course deepens understanding of algebraic concepts, focusing on functions, equations, and inequalities.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Polynomials</p></li>
+  <li><p class=""font_8"">Factoring Techniques</p></li>
+  <li><p class=""font_8"">Rational Expressions</p></li>
+  <li><p class=""font_8"">Linear and Quadratic Equations</p></li>
+  <li><p class=""font_8"">Radical Equations</p></li>
+  <li><p class=""font_8"">Inequalities</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Fundamental Mathematics I","math208",2024-09-12T04:30:15Z,2024-09-16T02:42:07Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 208","This course covers advanced functions and introductory linear algebra, providing a strong foundation for further mathematical studies.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Graphs and Lines</p></li>
+  <li><p class=""font_8"">Polynomial and Rational Functions</p></li>
+  <li><p class=""font_8"">Exponential and Logarithmic Functions</p></li>
+  <li><p class=""font_8"">Sequences and Series</p></li>
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrices and Determinants</p></li>
+  <li><p class=""font_8"">Linear Programming</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","Elias Bakopanos"
+"Fundamental Mathematics II","math209",2024-09-12T04:30:14Z,2024-09-16T02:44:55Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 209","This course focuses on single-variable calculus with applications, essential for students in science, engineering, and economics programs.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Derivatives</p></li>
+  <li><p class=""font_8"">Differentiation Techniques</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Integrals and Antiderivatives</p></li>
+  <li><p class=""font_8"">Optimization Problems</p></li>
+  <li><p class=""font_8"">Differential Equations</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Francesco Pedulla","N/A"
+"Linear Algebra I","math251",2024-09-12T04:30:14Z,2024-09-16T02:48:53Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 251","This course introduces fundamental linear algebra concepts, essential for further studies in mathematics and related fields.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Vector Spaces and Subspaces</p></li>
+  <li><p class=""font_8"">Linear Combinations and Systems of Equations</p></li>
+  <li><p class=""font_8"">Linear Dependence and Independence</p></li>
+  <li><p class=""font_8"">Basis and Dimension</p></li>
+  <li><p class=""font_8"">Matrix Representations</p></li>
+  <li><p class=""font_8"">Invertibility and Isomorphism</p></li>
+  <li><p class=""font_8"">Eigenvalues and Eigenvectors</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Ryan Hui","N/A"
+"Linear Algebra II","math252",2024-09-12T04:30:14Z,2024-09-16T02:46:09Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 252","This course provides an advanced study of linear algebra, building on the concepts introduced in Linear Algebra I.","CONCORDIA","MATH","<ul class=""font_8"">
+  <li><p class=""font_8"">Complex Numbers</p></li>
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Change of Coordinate Systems</p></li>
+  <li><p class=""font_8"">Diagonalization</p></li>
+  <li><p class=""font_8"">Invariant Subspaces</p></li>
+  <li><p class=""font_8"">Cayley-Hamilton Theorem</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ul>","/concordia-courses/","Ryan Hui","N/A"
+"Introduction to Organismal Biology","mbiol111",2024-09-12T04:30:15Z,2024-09-16T02:38:58Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","BIOL 111","This course explores the diversity of life, examining the structure, function, and evolution of various organisms.","MCGILL","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">Evolution and Natural Selection</p></li>
+  <li><p class=""font_8"">Classification of Organisms</p></li>
+  <li><p class=""font_8"">Plant Physiology</p></li>
+  <li><p class=""font_8"">Animal Physiology</p></li>
+  <li><p class=""font_8"">Fungi and Protists</p></li>
+  <li><p class=""font_8"">Ecology and Ecosystems</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"Introduction to Cell and Molecular Biology","mbiol112",2024-09-12T04:30:14Z,2024-09-16T02:43:27Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","BIOL 112","BIOL 112 delves into the cellular and molecular mechanisms that underpin life, focusing on the structure and function of cells.","MCGILL","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">Cell Structure and Function</p></li>
+  <li><p class=""font_8"">Biological Membranes</p></li>
+  <li><p class=""font_8"">Metabolism and Enzymes</p></li>
+  <li><p class=""font_8"">Cellular Respiration</p></li>
+  <li><p class=""font_8"">Photosynthesis</p></li>
+  <li><p class=""font_8"">Cell Communication and Signal Transduction</p></li>
+  <li><p class=""font_8"">The Cell Cycle and Mitosis</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"Essential Biology","mbiol115",2024-09-12T04:30:15Z,2024-09-16T02:37:08Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","BIOL 115","This course provides an introduction to biological science with an emphasis on the scientific method, cell biology, genetics, evolution, organ physiology, and ecology.","MCGILL","BIOLOGY","<ol class=""font_8"">
+  <li><p class=""font_8"">The Scientific Method and Experimental Design</p></li>
+  <li><p class=""font_8"">Structure and Function of Cells</p></li>
+  <li><p class=""font_8"">Basic Biochemistry and Metabolism</p></li>
+  <li><p class=""font_8"">Genetics and Inheritance Patterns</p></li>
+  <li><p class=""font_8"">Evolution and Natural Selection</p></li>
+  <li><p class=""font_8"">Diversity of Life (Overview of Organisms)</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","N/A","Maria Moshopoulos"
+"General Chemistry 1","mchem110",2024-09-12T04:30:15Z,2024-09-16T02:38:52Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","CHEM 110","This course introduces the foundational concepts in chemistry, providing a basis for understanding chemical reactions, bonding, and the behavior of matter.","MCGILL","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Atomic Structure</p></li>
+  <li><p class=""font_8"">Chemical Bonding</p></li>
+  <li><p class=""font_8"">Molecular Geometry</p></li>
+  <li><p class=""font_8"">Stoichiometry</p></li>
+  <li><p class=""font_8"">Thermochemistry</p></li>
+  <li><p class=""font_8"">Properties of Gases</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"General Chemistry 2","mchem120",2024-09-12T04:30:15Z,2024-09-16T02:37:38Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","CHEM 120","This course builds on CHEM 110, exploring more complex chemical concepts and applications.","MCGILL","CHEMISTRY","<ol class=""font_8"">
+  <li><p class=""font_8"">Chemical Kinetics</p></li>
+  <li><p class=""font_8"">Chemical Equilibrium</p></li>
+  <li><p class=""font_8"">Acids and Bases</p></li>
+  <li><p class=""font_8"">Buffers and Titrations</p></li>
+  <li><p class=""font_8"">Solubility Equilibria</p></li>
+  <li><p class=""font_8"">Thermodynamics</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Tynan Peterson","Ossama Elbannaoui"
+"Introduction to Computer Programming","mcomp202",2024-09-12T04:30:14Z,2024-09-16T02:46:34Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COMP 202","This course provides a strong foundation in programming and problem-solving, aimed at students with little or no prior programming experience.","MCGILL","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Programming fundamentals using a high-level language (often Python or Java)</p></li>
+  <li><p class=""font_8"">Variables, data types, and control structures</p></li>
+  <li><p class=""font_8"">Functions and modular programming</p></li>
+  <li><p class=""font_8"">Data structures such as lists, arrays, and dictionaries</p></li>
+  <li><p class=""font_8"">Object-oriented programming basics</p></li>
+  <li><p class=""font_8"">Debugging and testing techniques</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Introduction to Computer Science","mcomp250",2024-09-12T04:30:15Z,2024-09-16T02:37:00Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","COMP 250","This course is designed for students pursuing a major in computer science or related fields and provides essential knowledge for more advanced courses.","MCGILL","PROGRAMMING","<ol class=""font_8"">
+  <li><p class=""font_8"">Introduction to algorithms and data structures</p></li>
+  <li><p class=""font_8"">Object-oriented programming (usually in Java)</p></li>
+  <li><p class=""font_8"">Abstract data types such as stacks, queues, and linked lists</p></li>
+  <li><p class=""font_8"">Trees, graphs, and hash tables</p></li>
+  <li><p class=""font_8"">Algorithm analysis and computational complexity</p></li>
+  <li><p class=""font_8"">Recursion and sorting/searching algorithms</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Eric Hanna","Dina Shoham"
+"Mechanical Engineering Drawing","miae211",2024-09-12T04:30:14Z,2024-09-16T02:48:23Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MIAE 211","This course introduces students to graphic language and design techniques.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Orthographic Projection (First and Third Angle)</p></li>
+  <li><p class=""font_8"">Principal and Auxiliary Views</p></li>
+  <li><p class=""font_8"">Sectional Views</p></li>
+  <li><p class=""font_8"">Intersection of Lines, Planes, and Solids</p></li>
+  <li><p class=""font_8"">Surface Development</p></li>
+  <li><p class=""font_8"">Dimensioning, Fits, and Tolerancing</p></li>
+  <li><p class=""font_8"">Computer-Aided Drawing (CAD) and Solid Modeling</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Machine Drawing and Design","miae313",2024-09-12T04:30:14Z,2024-09-16T02:44:45Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MIAE 313","The course includes lectures and extensive lab work to build proficiency in CAD and mechanical design practices.","CONCORDIA","ENGINEERING","<ol class=""font_8"">
+  <li><p class=""font_8"">Machine elements representation</p></li>
+  <li><p class=""font_8"">Fits and tolerances</p></li>
+  <li><p class=""font_8"">Detail and assembly drawings</p></li>
+  <li><p class=""font_8"">Computer-Aided Design (CAD) tools for solid modeling</p></li>
+  <li><p class=""font_8"">Principles of orthographic and isometric projections</p></li>
+  <li><p class=""font_8"">Design and drafting practices for mechanical components</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","N/A","N/A"
+"Calculus 1 with Precalculus","mmath139",2024-09-12T04:30:14Z,2024-09-16T02:48:20Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 139","MATH 139 provides an introduction to calculus with a review of essential precalculus concepts.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Review of Precalculus</p></li>
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Differentiation Techniques</p></li>
+  <li><p class=""font_8"">Applications of Derivatives</p></li>
+  <li><p class=""font_8"">Related Rates</p></li>
+  <li><p class=""font_8"">Optimization Problems</p></li>
+  <li><p class=""font_8"">Antiderivatives</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Elias Bakopanos"
+"Calculus 1","mmath140",2024-09-12T04:30:14Z,2024-09-16T02:47:35Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 140","MATH 140 introduces students to the foundational concepts of calculus, building on prior knowledge.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Review of Functions and Graphs</p></li>
+  <li><p class=""font_8"">Limits and Continuity</p></li>
+  <li><p class=""font_8"">Differentiation of Elementary Functions</p></li>
+  <li><p class=""font_8"">Chain Rule</p></li>
+  <li><p class=""font_8"">Implicit Differentiation</p></li>
+  <li><p class=""font_8"">Applications of Differentiation</p></li>
+  <li><p class=""font_8"">Optimization and Related Rates</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Calculus 2","mmath141",2024-09-12T04:30:14Z,2024-09-16T02:48:45Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 141","MATH 141 continues from Calculus 1, focusing on integration and series.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Applications of the Integral</p></li>
+  <li><p class=""font_8"">Infinite Sequences and Series</p></li>
+  <li><p class=""font_8"">Convergence Tests</p></li>
+  <li><p class=""font_8"">Power Series</p></li>
+  <li><p class=""font_8"">Taylor and Maclaurin Series</p></li>
+  <li><p class=""font_8"">Polar Coordinates</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Calculus A","mmath150",2024-09-12T04:30:14Z,2024-09-16T02:43:32Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 150","MATH 150 offers an accelerated and challenging approach to calculus, covering advanced topics.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Functions, Limits, and Continuity</p></li>
+  <li><p class=""font_8"">Differentiation and Its Techniques</p></li>
+  <li><p class=""font_8"">Applications of Differentiation</p></li>
+  <li><p class=""font_8"">L'Hopital's Rule</p></li>
+  <li><p class=""font_8"">Taylor Polynomials</p></li>
+  <li><p class=""font_8"">Parametric Equations</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Calculus B","mmath151",2024-09-12T04:30:15Z,2024-09-16T02:43:03Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 151","MATH 151 continues from Calculus A, exploring more advanced calculus concepts.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Techniques of Integration</p></li>
+  <li><p class=""font_8"">Infinite Series</p></li>
+  <li><p class=""font_8"">Convergence and Divergence</p></li>
+  <li><p class=""font_8"">Power Series</p></li>
+  <li><p class=""font_8"">Taylor and Maclaurin Series</p></li>
+  <li><p class=""font_8"">Vectors and Geometry of Space</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Applied Linear Algebra","mmath214",2024-09-12T04:30:15Z,2024-09-16T02:42:12Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 214","MATH 214 focuses on the practical applications of linear algebra.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Systems of Linear Equations</p></li>
+  <li><p class=""font_8"">Matrix Algebra</p></li>
+  <li><p class=""font_8"">Vector Spaces</p></li>
+  <li><p class=""font_8"">Eigenvalues and Eigenvectors</p></li>
+  <li><p class=""font_8"">Diagonalization</p></li>
+  <li><p class=""font_8"">Inner Product Spaces</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","N/A"
+"Calculus 3","mmath222",2024-09-12T04:30:14Z,2024-09-16T02:47:01Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 222","MATH 222 covers advanced topics in multivariable calculus and vector calculus.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Multivariable Functions</p></li>
+  <li><p class=""font_8"">Partial Derivatives</p></li>
+  <li><p class=""font_8"">Multiple Integrals</p></li>
+  <li><p class=""font_8"">Line Integrals</p></li>
+  <li><p class=""font_8"">Green's Theorem</p></li>
+  <li><p class=""font_8"">Surface Integrals</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Intermediate Calculus","mmath262",2024-09-12T04:30:14Z,2024-09-16T02:43:18Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 262","MATH 262 explores the calculus of several variables, building on previous courses.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Limits and Continuity in Several Variables</p></li>
+  <li><p class=""font_8"">Partial Differentiation</p></li>
+  <li><p class=""font_8"">Chain Rule in Multivariable Context</p></li>
+  <li><p class=""font_8"">Multiple Integration Techniques</p></li>
+  <li><p class=""font_8"">Vector Fields</p></li>
+  <li><p class=""font_8"">Line Integrals</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Ordinary Differential Equations for Engineers","mmath263",2024-09-12T04:30:14Z,2024-09-16T02:44:26Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 263","MATH 263 covers ordinary differential equations with a focus on engineering applications.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">First-Order Differential Equations</p></li>
+  <li><p class=""font_8"">Second-Order Linear Equations</p></li>
+  <li><p class=""font_8"">Laplace Transforms</p></li>
+  <li><p class=""font_8"">Systems of Differential Equations</p></li>
+  <li><p class=""font_8"">Series Solutions</p></li>
+  <li><p class=""font_8"">Numerical Methods</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Advanced Calculus","mmath314",2024-09-12T04:30:15Z,2024-09-16T02:43:14Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 314","MATH 314 delves into advanced topics in calculus, focusing on functions of multiple variables and vector calculus.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">Multivariable Calculus</p></li>
+  <li><p class=""font_8"">Partial Differentiation</p></li>
+  <li><p class=""font_8"">Gradient, Divergence, and Curl</p></li>
+  <li><p class=""font_8"">Multiple Integrals</p></li>
+  <li><p class=""font_8"">Change of Variables</p></li>
+  <li><p class=""font_8"">Line and Surface Integrals</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Ordinary Differential Equations","mmath315",2024-09-12T04:30:14Z,2024-09-16T02:45:57Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","MATH 315","MATH 315 focuses on the study and application of differential equations, essential for modeling various physical systems.","MCGILL","MATH","<ol class=""font_8"">
+  <li><p class=""font_8"">First-Order Differential Equations</p></li>
+  <li><p class=""font_8"">Second-Order Linear Equations</p></li>
+  <li><p class=""font_8"">Systems of Differential Equations</p></li>
+  <li><p class=""font_8"">Series Solutions of Differential Equations</p></li>
+  <li><p class=""font_8"">Laplace Transforms</p></li>
+  <li><p class=""font_8"">Stability of Linear Systems</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Ryan Hui","Angel Udeogu"
+"Introductory Physics 1","mphys101",2024-09-12T04:30:14Z,2024-09-16T02:47:52Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","PHYS 101","PHYS 101 covers the fundamental principles of classical mechanics, introducing the laws that govern motion and forces.","MCGILL","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Kinematics</p></li>
+  <li><p class=""font_8"">Dynamics</p></li>
+  <li><p class=""font_8"">Newton's Laws of Motion</p></li>
+  <li><p class=""font_8"">Work and Energy</p></li>
+  <li><p class=""font_8"">Conservation of Energy</p></li>
+  <li><p class=""font_8"">Linear Momentum</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Introductory Physics 2","mphys102",2024-09-12T04:30:15Z,2024-09-16T02:39:03Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","PHYS 102","This course continues from PHYS 101, focusing on the fundamentals of electromagnetism, circuits, and optics.","MCGILL","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Electric Fields and Potentials</p></li>
+  <li><p class=""font_8"">Capacitance</p></li>
+  <li><p class=""font_8"">Electric Circuits</p></li>
+  <li><p class=""font_8"">Magnetic Fields</p></li>
+  <li><p class=""font_8"">Electromagnetic Induction</p></li>
+  <li><p class=""font_8"">AC Circuits</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Waves","mphys132",2024-09-12T04:30:14Z,2024-09-16T02:48:17Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","PHYS 132","This course is designed for students in the life sciences, providing them with a foundation in physics with a focus on its relevance to biological phenomena. It includes both lectures and lab components.","MCGILL","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Electricity and Magnetism</p></li>
+  <li><p class=""font_8"">Circuits</p></li>
+  <li><p class=""font_8"">Electromagnetic Waves</p></li>
+  <li><p class=""font_8"">Optics (Geometrical and Physical)</p></li>
+  <li><p class=""font_8"">Atomic and Nuclear Physics</p></li>
+  <li><p class=""font_8"">Applications of Physics to Biological Systems</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
+"Mechanics","phys204",2024-09-12T04:30:15Z,2024-09-16T02:37:17Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","PHYS 204","This course provides students with a comprehensive understanding of the laws governing motion and forces, critical for further studies in physics and engineering.","CONCORDIA","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Kinematics</p></li>
+  <li><p class=""font_8"">Dynamics</p></li>
+  <li><p class=""font_8"">Work and Energy</p></li>
+  <li><p class=""font_8"">Momentum</p></li>
+  <li><p class=""font_8"">Rotational Motion</p></li>
+  <li><p class=""font_8"">Statics and Elasticity</p></li>
+  <li><p class=""font_8"">And more!</p></li>
+</ol>","/concordia-courses/","Francesco Pedulla","Zachary Flynn"
+"Electricity and Magnetism","phys205",2024-09-12T04:30:15Z,2024-09-16T02:39:42Z,"2ab4c9e9-ea98-4251-aff0-18f7cf5fc2f3","PHYS 205","This course is essential for students aiming to understand the electromagnetic phenomena and their applications in technology.","CONCORDIA","PHYSICS","<ol class=""font_8"">
+  <li><p class=""font_8"">Electric Fields</p></li>
+  <li><p class=""font_8"">Gauss's Law</p></li>
+  <li><p class=""font_8"">Electric Potential</p></li>
+  <li><p class=""font_8"">Capacitance</p></li>
+  <li><p class=""font_8"">Current and Resistance</p></li>
+  <li><p class=""font_8"">Magnetic Fields</p></li>
+  <li><p class=""font_8"">And more</p></li>
+</ol>","/concordia-courses/","Erik Hristev","Zachary Flynn"
