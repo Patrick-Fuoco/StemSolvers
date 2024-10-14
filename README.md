@@ -4,7 +4,7 @@ Stem Solvers Tutoring Platform
 
 Stem Solvers is a responsive and dynamic tutoring platform that helps students find a tutor for math, programming, and science courses, using a highly interactive and aesthetic front-end and a powerful backend for scheduling and payment processing, with many third-party integrations.  
 
-🔗 Link: [www.stemsolvers.ca]stemsolvers.ca
+🔗 Link: [www.stemsolvers.ca] stemsolvers.ca
 
 🛠️ Key Features  
 -Dynamic Tutor Matching:      
