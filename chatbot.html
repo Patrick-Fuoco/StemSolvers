@@ -1,0 +1,25 @@
+<script type="text/javascript">
+  (function (d, t) {
+    var v = d.createElement(t),
+      s = d.getElementsByTagName(t)[0];
+    v.onload = function () {
+      if (!document.getElementById("root")) {
+        var root = d.createElement("div");
+        root.id = "root";
+        d.body.appendChild(root);
+      }
+      if (
+        window.myChatWidget &&
+        typeof window.myChatWidget.load === "function"
+      ) {
+        window.myChatWidget.load({
+          assistantId: "117798b8-5c3f-473d-88b5-6647fa01252f",
+          apiKey: "b6b17baf-a3f0-4b57-ad3f-d2c879ffbb76",
+        });
+      }
+    };
+    v.src = "https://agentivehub.com/production.bundle.min.js";
+    v.type = "text/javascript";
+    s.parentNode.insertBefore(v, s);
+  })(document, "script");
+</script>
